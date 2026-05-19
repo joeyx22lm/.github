@@ -12,12 +12,14 @@ Technical leader with 14+ years of experience building and operating enterprise 
 
 Technical leader embedded within the DevOps and SRE organization, providing hands-on architectural guidance across software delivery and runtime operations for a global team building a suite of SaaS applications. Work spans both platform-level concerns and direct collaboration with application engineering teams on runtime architecture.
 
-- Leading technical design of reusable, composable CI/CD components, release workflows, and infrastructure-as-code modules; establishing consistent software delivery standards organization-wide
+- Leading technical design of reusable, composable CI/CD components, release workflows, and infrastructure-as-code modules; establishing consistent software delivery standards organization-wide, leveraging gitops methodology.
 - Advising engineering teams directly on runtime and language-level architecture: native multi-threading and threadpool strategies, async queue and event-driven patterns, RPC architecture, and cloud-managed messaging (queues, topics, pub/sub) as they apply to each team's native stack
 - Guiding autoscaling design grounded in runtime behavior — threadpool saturation, connection pool limits, GC pressure — rather than infrastructure metrics alone
 - Driving observability standards including custom metrics instrumentation, SLI/SLO definition, and APM integration
 - Contributing to adoption of agentic AI workflows across the engineering organization
 - Contributed to cost optimization initiatives resulting in savings exceeding **$1MM/yr**
+
+*Kubernetes · GitOps · Microservice Architecture · AWS · Azure*
 
 **Manager, DevOps** `Oct 2022 – Feb 2025`
 
